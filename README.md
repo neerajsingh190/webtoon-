@@ -36,8 +36,8 @@ This is a RESTful API for managing a collection of webtoons, inspired by the web
    cd webtoon-api
 
 3.Install Dependencies:
-   ```bash
-   npm install
+  ```bash
+  npm install
 ```
 4. Set up environment variables: Create a file named .env in the root directory of your project.
    ```bash
