@@ -30,3 +30,11 @@ This is a RESTful API for managing a collection of webtoons, inspired by the web
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/webtoon-api.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd webtoon-api
+
+3.Install Dependencies:
+```bash
+npm install
